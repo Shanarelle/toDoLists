@@ -1,0 +1,11 @@
+EXTENSIONS TO TO_DO LIST PROGRAMME
+
+- feature to move an item from one list to the next list (either promote or demote)
+- move item up or down within a list
+- hide done items
+- attach to calendar of some kind
+
+
+
+
+alstom - band
